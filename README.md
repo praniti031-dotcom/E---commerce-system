@@ -2,7 +2,7 @@
 #include <vector>
 #include <iomanip>
 using namespace std;
-// ================= PRODUCT CLASS =================
+// ================= PRODUCT CLASS  =================
 class Product {
 private:
     int id;
